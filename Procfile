@@ -1,0 +1,1 @@
+web: gunicorn firelog.wsgi --log-file
